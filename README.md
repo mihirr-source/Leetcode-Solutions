@@ -18,5 +18,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [3783-mirror-distance-of-an-integer](https://github.com/mihirr-source/Leetcode-Solutions/tree/master/3783-mirror-distance-of-an-integer) |
 | [3895-count-digit-appearances](https://github.com/mihirr-source/Leetcode-Solutions/tree/master/3895-count-digit-appearances) |
 <!---LeetCode Topics End-->
