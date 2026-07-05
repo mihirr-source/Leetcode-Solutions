@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0509-fibonacci-number](https://github.com/mihirr-source/Leetcode-Solutions/tree/master/0509-fibonacci-number) |
 | [3227-vowels-game-in-a-string](https://github.com/mihirr-source/Leetcode-Solutions/tree/master/3227-vowels-game-in-a-string) |
 | [3783-mirror-distance-of-an-integer](https://github.com/mihirr-source/Leetcode-Solutions/tree/master/3783-mirror-distance-of-an-integer) |
 | [3895-count-digit-appearances](https://github.com/mihirr-source/Leetcode-Solutions/tree/master/3895-count-digit-appearances) |
@@ -72,4 +73,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/mihirr-source/Leetcode-Solutions/tree/master/1877-minimize-maximum-pair-sum-in-array) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/mihirr-source/Leetcode-Solutions/tree/master/0509-fibonacci-number) |
+## Recursion
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/mihirr-source/Leetcode-Solutions/tree/master/0509-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/mihirr-source/Leetcode-Solutions/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
