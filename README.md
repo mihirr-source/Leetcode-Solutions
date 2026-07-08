@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/mihirr-source/Leetcode-Solutions/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1980-find-unique-binary-string](https://github.com/mihirr-source/Leetcode-Solutions/tree/master/1980-find-unique-binary-string) |
 | [2079-watering-plants](https://github.com/mihirr-source/Leetcode-Solutions/tree/master/2079-watering-plants) |
+| [2683-neighboring-bitwise-xor](https://github.com/mihirr-source/Leetcode-Solutions/tree/master/2683-neighboring-bitwise-xor) |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/mihirr-source/Leetcode-Solutions/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3895-count-digit-appearances](https://github.com/mihirr-source/Leetcode-Solutions/tree/master/3895-count-digit-appearances) |
 ## String
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [2683-neighboring-bitwise-xor](https://github.com/mihirr-source/Leetcode-Solutions/tree/master/2683-neighboring-bitwise-xor) |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/mihirr-source/Leetcode-Solutions/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Queue
 |  |
