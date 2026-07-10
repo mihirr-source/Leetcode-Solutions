@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [1470-shuffle-the-array](https://github.com/mihirr-source/Leetcode-Solutions/tree/master/1470-shuffle-the-array) |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/mihirr-source/Leetcode-Solutions/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/mihirr-source/Leetcode-Solutions/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1980-find-unique-binary-string](https://github.com/mihirr-source/Leetcode-Solutions/tree/master/1980-find-unique-binary-string) |
