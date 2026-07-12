@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [1331-rank-transform-of-an-array](https://github.com/mihirr-source/Leetcode-Solutions/tree/master/1331-rank-transform-of-an-array) |
 | [1470-shuffle-the-array](https://github.com/mihirr-source/Leetcode-Solutions/tree/master/1470-shuffle-the-array) |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/mihirr-source/Leetcode-Solutions/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/mihirr-source/Leetcode-Solutions/tree/master/1877-minimize-maximum-pair-sum-in-array) |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0791-custom-sort-string](https://github.com/mihirr-source/Leetcode-Solutions/tree/master/0791-custom-sort-string) |
+| [1331-rank-transform-of-an-array](https://github.com/mihirr-source/Leetcode-Solutions/tree/master/1331-rank-transform-of-an-array) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/mihirr-source/Leetcode-Solutions/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2785-sort-vowels-in-a-string](https://github.com/mihirr-source/Leetcode-Solutions/tree/master/2785-sort-vowels-in-a-string) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/mihirr-source/Leetcode-Solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -61,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0791-custom-sort-string](https://github.com/mihirr-source/Leetcode-Solutions/tree/master/0791-custom-sort-string) |
+| [1331-rank-transform-of-an-array](https://github.com/mihirr-source/Leetcode-Solutions/tree/master/1331-rank-transform-of-an-array) |
 | [1980-find-unique-binary-string](https://github.com/mihirr-source/Leetcode-Solutions/tree/master/1980-find-unique-binary-string) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/mihirr-source/Leetcode-Solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3941-password-strength](https://github.com/mihirr-source/Leetcode-Solutions/tree/master/3941-password-strength) |
