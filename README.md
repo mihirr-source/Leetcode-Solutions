@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/mihirr-source/Leetcode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0008-string-to-integer-atoi](https://github.com/mihirr-source/Leetcode-Solutions/tree/master/0008-string-to-integer-atoi) |
 | [0791-custom-sort-string](https://github.com/mihirr-source/Leetcode-Solutions/tree/master/0791-custom-sort-string) |
 | [1108-defanging-an-ip-address](https://github.com/mihirr-source/Leetcode-Solutions/tree/master/1108-defanging-an-ip-address) |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/mihirr-source/Leetcode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0791-custom-sort-string](https://github.com/mihirr-source/Leetcode-Solutions/tree/master/0791-custom-sort-string) |
 | [1331-rank-transform-of-an-array](https://github.com/mihirr-source/Leetcode-Solutions/tree/master/1331-rank-transform-of-an-array) |
 | [1980-find-unique-binary-string](https://github.com/mihirr-source/Leetcode-Solutions/tree/master/1980-find-unique-binary-string) |
@@ -130,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/mihirr-source/Leetcode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/mihirr-source/Leetcode-Solutions/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Number Theory
 |  |
