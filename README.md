@@ -139,4 +139,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0190-reverse-bits](https://github.com/mihirr-source/Leetcode-Solutions/tree/master/0190-reverse-bits) |
+## Enumeration
+|  |
+| ------- |
+| [1291-sequential-digits](https://github.com/mihirr-source/Leetcode-Solutions/tree/master/1291-sequential-digits) |
 <!---LeetCode Topics End-->
