@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/mihirr-source/Leetcode-Solutions/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/mihirr-source/Leetcode-Solutions/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [1980-find-unique-binary-string](https://github.com/mihirr-source/Leetcode-Solutions/tree/master/1980-find-unique-binary-string) |
+| [2486-append-characters-to-string-to-make-subsequence](https://github.com/mihirr-source/Leetcode-Solutions/tree/master/2486-append-characters-to-string-to-make-subsequence) |
 | [2785-sort-vowels-in-a-string](https://github.com/mihirr-source/Leetcode-Solutions/tree/master/2785-sort-vowels-in-a-string) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/mihirr-source/Leetcode-Solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3227-vowels-game-in-a-string](https://github.com/mihirr-source/Leetcode-Solutions/tree/master/3227-vowels-game-in-a-string) |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/mihirr-source/Leetcode-Solutions/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/mihirr-source/Leetcode-Solutions/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
+| [2486-append-characters-to-string-to-make-subsequence](https://github.com/mihirr-source/Leetcode-Solutions/tree/master/2486-append-characters-to-string-to-make-subsequence) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/mihirr-source/Leetcode-Solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3228-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/mihirr-source/Leetcode-Solutions/tree/master/3228-maximum-number-of-operations-to-move-ones-to-the-end) |
 ## Two Pointers
@@ -112,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/mihirr-source/Leetcode-Solutions/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/mihirr-source/Leetcode-Solutions/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/mihirr-source/Leetcode-Solutions/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2486-append-characters-to-string-to-make-subsequence](https://github.com/mihirr-source/Leetcode-Solutions/tree/master/2486-append-characters-to-string-to-make-subsequence) |
 ## Dynamic Programming
 |  |
 | ------- |
