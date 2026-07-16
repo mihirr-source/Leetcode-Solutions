@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2683-neighboring-bitwise-xor](https://github.com/mihirr-source/Leetcode-Solutions/tree/master/2683-neighboring-bitwise-xor) |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/mihirr-source/Leetcode-Solutions/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/mihirr-source/Leetcode-Solutions/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/mihirr-source/Leetcode-Solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3895-count-digit-appearances](https://github.com/mihirr-source/Leetcode-Solutions/tree/master/3895-count-digit-appearances) |
 ## String
 |  |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/mihirr-source/Leetcode-Solutions/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/mihirr-source/Leetcode-Solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3783-mirror-distance-of-an-integer](https://github.com/mihirr-source/Leetcode-Solutions/tree/master/3783-mirror-distance-of-an-integer) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/mihirr-source/Leetcode-Solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3895-count-digit-appearances](https://github.com/mihirr-source/Leetcode-Solutions/tree/master/3895-count-digit-appearances) |
 | [3918-sum-of-primes-between-number-and-its-reverse](https://github.com/mihirr-source/Leetcode-Solutions/tree/master/3918-sum-of-primes-between-number-and-its-reverse) |
 ## Sorting
@@ -64,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2491-divide-players-into-teams-of-equal-skill](https://github.com/mihirr-source/Leetcode-Solutions/tree/master/2491-divide-players-into-teams-of-equal-skill) |
 | [2785-sort-vowels-in-a-string](https://github.com/mihirr-source/Leetcode-Solutions/tree/master/2785-sort-vowels-in-a-string) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/mihirr-source/Leetcode-Solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/mihirr-source/Leetcode-Solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Simulation
 |  |
 | ------- |
@@ -71,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2149-rearrange-array-elements-by-sign](https://github.com/mihirr-source/Leetcode-Solutions/tree/master/2149-rearrange-array-elements-by-sign) |
 | [3271-hash-divided-string](https://github.com/mihirr-source/Leetcode-Solutions/tree/master/3271-hash-divided-string) |
 | [3324-find-the-sequence-of-strings-appeared-on-the-screen](https://github.com/mihirr-source/Leetcode-Solutions/tree/master/3324-find-the-sequence-of-strings-appeared-on-the-screen) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/mihirr-source/Leetcode-Solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Hash Table
 |  |
 | ------- |
@@ -123,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2149-rearrange-array-elements-by-sign](https://github.com/mihirr-source/Leetcode-Solutions/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/mihirr-source/Leetcode-Solutions/tree/master/2486-append-characters-to-string-to-make-subsequence) |
 | [2491-divide-players-into-teams-of-equal-skill](https://github.com/mihirr-source/Leetcode-Solutions/tree/master/2491-divide-players-into-teams-of-equal-skill) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/mihirr-source/Leetcode-Solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -158,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/mihirr-source/Leetcode-Solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/mihirr-source/Leetcode-Solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3918-sum-of-primes-between-number-and-its-reverse](https://github.com/mihirr-source/Leetcode-Solutions/tree/master/3918-sum-of-primes-between-number-and-its-reverse) |
 ## Divide and Conquer
 |  |
