@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0070-climbing-stairs](https://github.com/mihirr-source/Leetcode-Solutions/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/mihirr-source/Leetcode-Solutions/tree/master/0509-fibonacci-number) |
+| [1688-count-of-matches-in-tournament](https://github.com/mihirr-source/Leetcode-Solutions/tree/master/1688-count-of-matches-in-tournament) |
 | [3227-vowels-game-in-a-string](https://github.com/mihirr-source/Leetcode-Solutions/tree/master/3227-vowels-game-in-a-string) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/mihirr-source/Leetcode-Solutions/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/mihirr-source/Leetcode-Solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [1688-count-of-matches-in-tournament](https://github.com/mihirr-source/Leetcode-Solutions/tree/master/1688-count-of-matches-in-tournament) |
 | [2079-watering-plants](https://github.com/mihirr-source/Leetcode-Solutions/tree/master/2079-watering-plants) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/mihirr-source/Leetcode-Solutions/tree/master/2149-rearrange-array-elements-by-sign) |
 | [3271-hash-divided-string](https://github.com/mihirr-source/Leetcode-Solutions/tree/master/3271-hash-divided-string) |
