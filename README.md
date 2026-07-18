@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/mihirr-source/Leetcode-Solutions/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/mihirr-source/Leetcode-Solutions/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/mihirr-source/Leetcode-Solutions/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
+| [3668-restore-finishing-order](https://github.com/mihirr-source/Leetcode-Solutions/tree/master/3668-restore-finishing-order) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/mihirr-source/Leetcode-Solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3895-count-digit-appearances](https://github.com/mihirr-source/Leetcode-Solutions/tree/master/3895-count-digit-appearances) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/mihirr-source/Leetcode-Solutions/tree/master/3898-find-the-degree-of-each-vertex) |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1980-find-unique-binary-string](https://github.com/mihirr-source/Leetcode-Solutions/tree/master/1980-find-unique-binary-string) |
 | [2491-divide-players-into-teams-of-equal-skill](https://github.com/mihirr-source/Leetcode-Solutions/tree/master/2491-divide-players-into-teams-of-equal-skill) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/mihirr-source/Leetcode-Solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3668-restore-finishing-order](https://github.com/mihirr-source/Leetcode-Solutions/tree/master/3668-restore-finishing-order) |
 | [3941-password-strength](https://github.com/mihirr-source/Leetcode-Solutions/tree/master/3941-password-strength) |
 | [3945-digit-frequency-score](https://github.com/mihirr-source/Leetcode-Solutions/tree/master/3945-digit-frequency-score) |
 ## Backtracking
