@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3271-hash-divided-string](https://github.com/mihirr-source/Leetcode-Solutions/tree/master/3271-hash-divided-string) |
 | [3324-find-the-sequence-of-strings-appeared-on-the-screen](https://github.com/mihirr-source/Leetcode-Solutions/tree/master/3324-find-the-sequence-of-strings-appeared-on-the-screen) |
 | [3746-minimum-string-length-after-balanced-removals](https://github.com/mihirr-source/Leetcode-Solutions/tree/master/3746-minimum-string-length-after-balanced-removals) |
+| [3794-reverse-string-prefix](https://github.com/mihirr-source/Leetcode-Solutions/tree/master/3794-reverse-string-prefix) |
 | [3941-password-strength](https://github.com/mihirr-source/Leetcode-Solutions/tree/master/3941-password-strength) |
 ## Prefix Sum
 |  |
@@ -142,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2149-rearrange-array-elements-by-sign](https://github.com/mihirr-source/Leetcode-Solutions/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/mihirr-source/Leetcode-Solutions/tree/master/2486-append-characters-to-string-to-make-subsequence) |
 | [2491-divide-players-into-teams-of-equal-skill](https://github.com/mihirr-source/Leetcode-Solutions/tree/master/2491-divide-players-into-teams-of-equal-skill) |
+| [3794-reverse-string-prefix](https://github.com/mihirr-source/Leetcode-Solutions/tree/master/3794-reverse-string-prefix) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/mihirr-source/Leetcode-Solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Dynamic Programming
 |  |
