@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/mihirr-source/Leetcode-Solutions/tree/master/0011-container-with-most-water) |
 | [0904-fruit-into-baskets](https://github.com/mihirr-source/Leetcode-Solutions/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/mihirr-source/Leetcode-Solutions/tree/master/1004-max-consecutive-ones-iii) |
+| [1260-shift-2d-grid](https://github.com/mihirr-source/Leetcode-Solutions/tree/master/1260-shift-2d-grid) |
 | [1331-rank-transform-of-an-array](https://github.com/mihirr-source/Leetcode-Solutions/tree/master/1331-rank-transform-of-an-array) |
 | [1470-shuffle-the-array](https://github.com/mihirr-source/Leetcode-Solutions/tree/master/1470-shuffle-the-array) |
 | [1720-decode-xored-array](https://github.com/mihirr-source/Leetcode-Solutions/tree/master/1720-decode-xored-array) |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [1260-shift-2d-grid](https://github.com/mihirr-source/Leetcode-Solutions/tree/master/1260-shift-2d-grid) |
 | [1688-count-of-matches-in-tournament](https://github.com/mihirr-source/Leetcode-Solutions/tree/master/1688-count-of-matches-in-tournament) |
 | [2079-watering-plants](https://github.com/mihirr-source/Leetcode-Solutions/tree/master/2079-watering-plants) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/mihirr-source/Leetcode-Solutions/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -208,5 +210,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [1260-shift-2d-grid](https://github.com/mihirr-source/Leetcode-Solutions/tree/master/1260-shift-2d-grid) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/mihirr-source/Leetcode-Solutions/tree/master/3898-find-the-degree-of-each-vertex) |
 <!---LeetCode Topics End-->
