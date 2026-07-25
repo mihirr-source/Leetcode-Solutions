@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0070-climbing-stairs](https://github.com/mihirr-source/Leetcode-Solutions/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/mihirr-source/Leetcode-Solutions/tree/master/0509-fibonacci-number) |
+| [1015-smallest-integer-divisible-by-k](https://github.com/mihirr-source/Leetcode-Solutions/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1688-count-of-matches-in-tournament](https://github.com/mihirr-source/Leetcode-Solutions/tree/master/1688-count-of-matches-in-tournament) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/mihirr-source/Leetcode-Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2469-convert-the-temperature](https://github.com/mihirr-source/Leetcode-Solutions/tree/master/2469-convert-the-temperature) |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0409-longest-palindrome](https://github.com/mihirr-source/Leetcode-Solutions/tree/master/0409-longest-palindrome) |
 | [0791-custom-sort-string](https://github.com/mihirr-source/Leetcode-Solutions/tree/master/0791-custom-sort-string) |
 | [0904-fruit-into-baskets](https://github.com/mihirr-source/Leetcode-Solutions/tree/master/0904-fruit-into-baskets) |
+| [1015-smallest-integer-divisible-by-k](https://github.com/mihirr-source/Leetcode-Solutions/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1331-rank-transform-of-an-array](https://github.com/mihirr-source/Leetcode-Solutions/tree/master/1331-rank-transform-of-an-array) |
 | [1980-find-unique-binary-string](https://github.com/mihirr-source/Leetcode-Solutions/tree/master/1980-find-unique-binary-string) |
 | [2491-divide-players-into-teams-of-equal-skill](https://github.com/mihirr-source/Leetcode-Solutions/tree/master/2491-divide-players-into-teams-of-equal-skill) |
