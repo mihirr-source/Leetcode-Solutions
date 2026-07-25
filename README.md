@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1688-count-of-matches-in-tournament](https://github.com/mihirr-source/Leetcode-Solutions/tree/master/1688-count-of-matches-in-tournament) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/mihirr-source/Leetcode-Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2469-convert-the-temperature](https://github.com/mihirr-source/Leetcode-Solutions/tree/master/2469-convert-the-temperature) |
+| [2507-smallest-value-after-replacing-with-sum-of-prime-factors](https://github.com/mihirr-source/Leetcode-Solutions/tree/master/2507-smallest-value-after-replacing-with-sum-of-prime-factors) |
 | [2769-find-the-maximum-achievable-number](https://github.com/mihirr-source/Leetcode-Solutions/tree/master/2769-find-the-maximum-achievable-number) |
 | [3227-vowels-game-in-a-string](https://github.com/mihirr-source/Leetcode-Solutions/tree/master/3227-vowels-game-in-a-string) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/mihirr-source/Leetcode-Solutions/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1688-count-of-matches-in-tournament](https://github.com/mihirr-source/Leetcode-Solutions/tree/master/1688-count-of-matches-in-tournament) |
 | [2079-watering-plants](https://github.com/mihirr-source/Leetcode-Solutions/tree/master/2079-watering-plants) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/mihirr-source/Leetcode-Solutions/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2507-smallest-value-after-replacing-with-sum-of-prime-factors](https://github.com/mihirr-source/Leetcode-Solutions/tree/master/2507-smallest-value-after-replacing-with-sum-of-prime-factors) |
 | [3271-hash-divided-string](https://github.com/mihirr-source/Leetcode-Solutions/tree/master/3271-hash-divided-string) |
 | [3324-find-the-sequence-of-strings-appeared-on-the-screen](https://github.com/mihirr-source/Leetcode-Solutions/tree/master/3324-find-the-sequence-of-strings-appeared-on-the-screen) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/mihirr-source/Leetcode-Solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -208,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/mihirr-source/Leetcode-Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2507-smallest-value-after-replacing-with-sum-of-prime-factors](https://github.com/mihirr-source/Leetcode-Solutions/tree/master/2507-smallest-value-after-replacing-with-sum-of-prime-factors) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/mihirr-source/Leetcode-Solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/mihirr-source/Leetcode-Solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3918-sum-of-primes-between-number-and-its-reverse](https://github.com/mihirr-source/Leetcode-Solutions/tree/master/3918-sum-of-primes-between-number-and-its-reverse) |
