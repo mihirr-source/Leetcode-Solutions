@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0070-climbing-stairs](https://github.com/mihirr-source/Leetcode-Solutions/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/mihirr-source/Leetcode-Solutions/tree/master/0509-fibonacci-number) |
+| [0650-2-keys-keyboard](https://github.com/mihirr-source/Leetcode-Solutions/tree/master/0650-2-keys-keyboard) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/mihirr-source/Leetcode-Solutions/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1688-count-of-matches-in-tournament](https://github.com/mihirr-source/Leetcode-Solutions/tree/master/1688-count-of-matches-in-tournament) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/mihirr-source/Leetcode-Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -176,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0070-climbing-stairs](https://github.com/mihirr-source/Leetcode-Solutions/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/mihirr-source/Leetcode-Solutions/tree/master/0509-fibonacci-number) |
+| [0650-2-keys-keyboard](https://github.com/mihirr-source/Leetcode-Solutions/tree/master/0650-2-keys-keyboard) |
 ## Recursion
 |  |
 | ------- |
