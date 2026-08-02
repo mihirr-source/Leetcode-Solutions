@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/mihirr-source/Leetcode-Solutions/tree/master/0011-container-with-most-water) |
 | [0053-maximum-subarray](https://github.com/mihirr-source/Leetcode-Solutions/tree/master/0053-maximum-subarray) |
 | [0073-set-matrix-zeroes](https://github.com/mihirr-source/Leetcode-Solutions/tree/master/0073-set-matrix-zeroes) |
+| [0118-pascals-triangle](https://github.com/mihirr-source/Leetcode-Solutions/tree/master/0118-pascals-triangle) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/mihirr-source/Leetcode-Solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0455-assign-cookies](https://github.com/mihirr-source/Leetcode-Solutions/tree/master/0455-assign-cookies) |
 | [0628-maximum-product-of-three-numbers](https://github.com/mihirr-source/Leetcode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
@@ -202,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/mihirr-source/Leetcode-Solutions/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/mihirr-source/Leetcode-Solutions/tree/master/0070-climbing-stairs) |
+| [0118-pascals-triangle](https://github.com/mihirr-source/Leetcode-Solutions/tree/master/0118-pascals-triangle) |
 | [0509-fibonacci-number](https://github.com/mihirr-source/Leetcode-Solutions/tree/master/0509-fibonacci-number) |
 | [0650-2-keys-keyboard](https://github.com/mihirr-source/Leetcode-Solutions/tree/master/0650-2-keys-keyboard) |
 | [0877-stone-game](https://github.com/mihirr-source/Leetcode-Solutions/tree/master/0877-stone-game) |
