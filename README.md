@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2683-neighboring-bitwise-xor](https://github.com/mihirr-source/Leetcode-Solutions/tree/master/2683-neighboring-bitwise-xor) |
 | [2942-find-words-containing-character](https://github.com/mihirr-source/Leetcode-Solutions/tree/master/2942-find-words-containing-character) |
 | [3065-minimum-operations-to-exceed-threshold-value-i](https://github.com/mihirr-source/Leetcode-Solutions/tree/master/3065-minimum-operations-to-exceed-threshold-value-i) |
+| [3162-find-the-number-of-good-pairs-i](https://github.com/mihirr-source/Leetcode-Solutions/tree/master/3162-find-the-number-of-good-pairs-i) |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/mihirr-source/Leetcode-Solutions/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/mihirr-source/Leetcode-Solutions/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/mihirr-source/Leetcode-Solutions/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
@@ -156,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2491-divide-players-into-teams-of-equal-skill](https://github.com/mihirr-source/Leetcode-Solutions/tree/master/2491-divide-players-into-teams-of-equal-skill) |
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/mihirr-source/Leetcode-Solutions/tree/master/2521-distinct-prime-factors-of-product-of-array) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/mihirr-source/Leetcode-Solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3162-find-the-number-of-good-pairs-i](https://github.com/mihirr-source/Leetcode-Solutions/tree/master/3162-find-the-number-of-good-pairs-i) |
 | [3668-restore-finishing-order](https://github.com/mihirr-source/Leetcode-Solutions/tree/master/3668-restore-finishing-order) |
 | [3731-find-missing-elements](https://github.com/mihirr-source/Leetcode-Solutions/tree/master/3731-find-missing-elements) |
 | [3941-password-strength](https://github.com/mihirr-source/Leetcode-Solutions/tree/master/3941-password-strength) |
