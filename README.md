@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1980-find-unique-binary-string](https://github.com/mihirr-source/Leetcode-Solutions/tree/master/1980-find-unique-binary-string) |
 | [2079-watering-plants](https://github.com/mihirr-source/Leetcode-Solutions/tree/master/2079-watering-plants) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/mihirr-source/Leetcode-Solutions/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2185-counting-words-with-a-given-prefix](https://github.com/mihirr-source/Leetcode-Solutions/tree/master/2185-counting-words-with-a-given-prefix) |
 | [2433-find-the-original-array-of-prefix-xor](https://github.com/mihirr-source/Leetcode-Solutions/tree/master/2433-find-the-original-array-of-prefix-xor) |
 | [2491-divide-players-into-teams-of-equal-skill](https://github.com/mihirr-source/Leetcode-Solutions/tree/master/2491-divide-players-into-teams-of-equal-skill) |
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/mihirr-source/Leetcode-Solutions/tree/master/2521-distinct-prime-factors-of-product-of-array) |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1816-truncate-sentence](https://github.com/mihirr-source/Leetcode-Solutions/tree/master/1816-truncate-sentence) |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/mihirr-source/Leetcode-Solutions/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [1980-find-unique-binary-string](https://github.com/mihirr-source/Leetcode-Solutions/tree/master/1980-find-unique-binary-string) |
+| [2185-counting-words-with-a-given-prefix](https://github.com/mihirr-source/Leetcode-Solutions/tree/master/2185-counting-words-with-a-given-prefix) |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/mihirr-source/Leetcode-Solutions/tree/master/2486-append-characters-to-string-to-make-subsequence) |
 | [2785-sort-vowels-in-a-string](https://github.com/mihirr-source/Leetcode-Solutions/tree/master/2785-sort-vowels-in-a-string) |
 | [2942-find-words-containing-character](https://github.com/mihirr-source/Leetcode-Solutions/tree/master/2942-find-words-containing-character) |
@@ -295,4 +297,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/mihirr-source/Leetcode-Solutions/tree/master/3517-smallest-palindromic-rearrangement-i) |
+## String Matching
+|  |
+| ------- |
+| [2185-counting-words-with-a-given-prefix](https://github.com/mihirr-source/Leetcode-Solutions/tree/master/2185-counting-words-with-a-given-prefix) |
 <!---LeetCode Topics End-->
