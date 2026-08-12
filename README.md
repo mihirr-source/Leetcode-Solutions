@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/mihirr-source/Leetcode-Solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0409-longest-palindrome](https://github.com/mihirr-source/Leetcode-Solutions/tree/master/0409-longest-palindrome) |
 | [0791-custom-sort-string](https://github.com/mihirr-source/Leetcode-Solutions/tree/master/0791-custom-sort-string) |
+| [1021-remove-outermost-parentheses](https://github.com/mihirr-source/Leetcode-Solutions/tree/master/1021-remove-outermost-parentheses) |
 | [1108-defanging-an-ip-address](https://github.com/mihirr-source/Leetcode-Solutions/tree/master/1108-defanging-an-ip-address) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/mihirr-source/Leetcode-Solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/mihirr-source/Leetcode-Solutions/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
@@ -175,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [1021-remove-outermost-parentheses](https://github.com/mihirr-source/Leetcode-Solutions/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/mihirr-source/Leetcode-Solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/mihirr-source/Leetcode-Solutions/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [3746-minimum-string-length-after-balanced-removals](https://github.com/mihirr-source/Leetcode-Solutions/tree/master/3746-minimum-string-length-after-balanced-removals) |
@@ -309,4 +311,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2185-counting-words-with-a-given-prefix](https://github.com/mihirr-source/Leetcode-Solutions/tree/master/2185-counting-words-with-a-given-prefix) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1021-remove-outermost-parentheses](https://github.com/mihirr-source/Leetcode-Solutions/tree/master/1021-remove-outermost-parentheses) |
 <!---LeetCode Topics End-->
