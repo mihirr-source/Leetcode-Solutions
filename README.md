@@ -99,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0650-2-keys-keyboard](https://github.com/mihirr-source/Leetcode-Solutions/tree/master/0650-2-keys-keyboard) |
 | [0877-stone-game](https://github.com/mihirr-source/Leetcode-Solutions/tree/master/0877-stone-game) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/mihirr-source/Leetcode-Solutions/tree/master/1015-smallest-integer-divisible-by-k) |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/mihirr-source/Leetcode-Solutions/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1688-count-of-matches-in-tournament](https://github.com/mihirr-source/Leetcode-Solutions/tree/master/1688-count-of-matches-in-tournament) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/mihirr-source/Leetcode-Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2469-convert-the-temperature](https://github.com/mihirr-source/Leetcode-Solutions/tree/master/2469-convert-the-temperature) |
@@ -250,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0190-reverse-bits](https://github.com/mihirr-source/Leetcode-Solutions/tree/master/0190-reverse-bits) |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/mihirr-source/Leetcode-Solutions/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1720-decode-xored-array](https://github.com/mihirr-source/Leetcode-Solutions/tree/master/1720-decode-xored-array) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/mihirr-source/Leetcode-Solutions/tree/master/2220-minimum-bit-flips-to-convert-number) |
 | [2433-find-the-original-array-of-prefix-xor](https://github.com/mihirr-source/Leetcode-Solutions/tree/master/2433-find-the-original-array-of-prefix-xor) |
