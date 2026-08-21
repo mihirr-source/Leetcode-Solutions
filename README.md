@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2433-find-the-original-array-of-prefix-xor](https://github.com/mihirr-source/Leetcode-Solutions/tree/master/2433-find-the-original-array-of-prefix-xor) |
 | [2491-divide-players-into-teams-of-equal-skill](https://github.com/mihirr-source/Leetcode-Solutions/tree/master/2491-divide-players-into-teams-of-equal-skill) |
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/mihirr-source/Leetcode-Solutions/tree/master/2521-distinct-prime-factors-of-product-of-array) |
+| [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/mihirr-source/Leetcode-Solutions/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2683-neighboring-bitwise-xor](https://github.com/mihirr-source/Leetcode-Solutions/tree/master/2683-neighboring-bitwise-xor) |
 | [2942-find-words-containing-character](https://github.com/mihirr-source/Leetcode-Solutions/tree/master/2942-find-words-containing-character) |
 | [2965-find-missing-and-repeated-values](https://github.com/mihirr-source/Leetcode-Solutions/tree/master/2965-find-missing-and-repeated-values) |
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2469-convert-the-temperature](https://github.com/mihirr-source/Leetcode-Solutions/tree/master/2469-convert-the-temperature) |
 | [2507-smallest-value-after-replacing-with-sum-of-prime-factors](https://github.com/mihirr-source/Leetcode-Solutions/tree/master/2507-smallest-value-after-replacing-with-sum-of-prime-factors) |
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/mihirr-source/Leetcode-Solutions/tree/master/2521-distinct-prime-factors-of-product-of-array) |
+| [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/mihirr-source/Leetcode-Solutions/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2652-sum-multiples](https://github.com/mihirr-source/Leetcode-Solutions/tree/master/2652-sum-multiples) |
 | [2769-find-the-maximum-achievable-number](https://github.com/mihirr-source/Leetcode-Solutions/tree/master/2769-find-the-maximum-achievable-number) |
 | [2965-find-missing-and-repeated-values](https://github.com/mihirr-source/Leetcode-Solutions/tree/master/2965-find-missing-and-repeated-values) |
