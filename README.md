@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3895-count-digit-appearances](https://github.com/mihirr-source/Leetcode-Solutions/tree/master/3895-count-digit-appearances) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/mihirr-source/Leetcode-Solutions/tree/master/3898-find-the-degree-of-each-vertex) |
 | [3925-concatenate-array-with-reverse](https://github.com/mihirr-source/Leetcode-Solutions/tree/master/3925-concatenate-array-with-reverse) |
+| [3998-transform-binary-string-using-subsequence-sort](https://github.com/mihirr-source/Leetcode-Solutions/tree/master/3998-transform-binary-string-using-subsequence-sort) |
 ## String
 |  |
 | ------- |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3746-minimum-string-length-after-balanced-removals](https://github.com/mihirr-source/Leetcode-Solutions/tree/master/3746-minimum-string-length-after-balanced-removals) |
 | [3794-reverse-string-prefix](https://github.com/mihirr-source/Leetcode-Solutions/tree/master/3794-reverse-string-prefix) |
 | [3941-password-strength](https://github.com/mihirr-source/Leetcode-Solutions/tree/master/3941-password-strength) |
+| [3998-transform-binary-string-using-subsequence-sort](https://github.com/mihirr-source/Leetcode-Solutions/tree/master/3998-transform-binary-string-using-subsequence-sort) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -227,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/mihirr-source/Leetcode-Solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/mihirr-source/Leetcode-Solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3228-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/mihirr-source/Leetcode-Solutions/tree/master/3228-maximum-number-of-operations-to-move-ones-to-the-end) |
+| [3998-transform-binary-string-using-subsequence-sort](https://github.com/mihirr-source/Leetcode-Solutions/tree/master/3998-transform-binary-string-using-subsequence-sort) |
 ## Two Pointers
 |  |
 | ------- |
@@ -240,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2491-divide-players-into-teams-of-equal-skill](https://github.com/mihirr-source/Leetcode-Solutions/tree/master/2491-divide-players-into-teams-of-equal-skill) |
 | [3794-reverse-string-prefix](https://github.com/mihirr-source/Leetcode-Solutions/tree/master/3794-reverse-string-prefix) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/mihirr-source/Leetcode-Solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+| [3998-transform-binary-string-using-subsequence-sort](https://github.com/mihirr-source/Leetcode-Solutions/tree/master/3998-transform-binary-string-using-subsequence-sort) |
 ## Dynamic Programming
 |  |
 | ------- |
