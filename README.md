@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1004-max-consecutive-ones-iii](https://github.com/mihirr-source/Leetcode-Solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1207-unique-number-of-occurrences](https://github.com/mihirr-source/Leetcode-Solutions/tree/master/1207-unique-number-of-occurrences) |
 | [1260-shift-2d-grid](https://github.com/mihirr-source/Leetcode-Solutions/tree/master/1260-shift-2d-grid) |
+| [1287-element-appearing-more-than-25-in-sorted-array](https://github.com/mihirr-source/Leetcode-Solutions/tree/master/1287-element-appearing-more-than-25-in-sorted-array) |
 | [1331-rank-transform-of-an-array](https://github.com/mihirr-source/Leetcode-Solutions/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/mihirr-source/Leetcode-Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1470-shuffle-the-array](https://github.com/mihirr-source/Leetcode-Solutions/tree/master/1470-shuffle-the-array) |
