@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1470-shuffle-the-array](https://github.com/mihirr-source/Leetcode-Solutions/tree/master/1470-shuffle-the-array) |
 | [1528-shuffle-string](https://github.com/mihirr-source/Leetcode-Solutions/tree/master/1528-shuffle-string) |
 | [1539-kth-missing-positive-number](https://github.com/mihirr-source/Leetcode-Solutions/tree/master/1539-kth-missing-positive-number) |
+| [1572-matrix-diagonal-sum](https://github.com/mihirr-source/Leetcode-Solutions/tree/master/1572-matrix-diagonal-sum) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/mihirr-source/Leetcode-Solutions/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1720-decode-xored-array](https://github.com/mihirr-source/Leetcode-Solutions/tree/master/1720-decode-xored-array) |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/mihirr-source/Leetcode-Solutions/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
@@ -323,6 +324,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/mihirr-source/Leetcode-Solutions/tree/master/0073-set-matrix-zeroes) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/mihirr-source/Leetcode-Solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [1260-shift-2d-grid](https://github.com/mihirr-source/Leetcode-Solutions/tree/master/1260-shift-2d-grid) |
+| [1572-matrix-diagonal-sum](https://github.com/mihirr-source/Leetcode-Solutions/tree/master/1572-matrix-diagonal-sum) |
 | [2965-find-missing-and-repeated-values](https://github.com/mihirr-source/Leetcode-Solutions/tree/master/2965-find-missing-and-repeated-values) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/mihirr-source/Leetcode-Solutions/tree/master/3898-find-the-degree-of-each-vertex) |
 ## Heap (Priority Queue)
