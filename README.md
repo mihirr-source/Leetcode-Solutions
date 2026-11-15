@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/mihirr-source/Leetcode-Solutions/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/mihirr-source/Leetcode-Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [1980-find-unique-binary-string](https://github.com/mihirr-source/Leetcode-Solutions/tree/master/1980-find-unique-binary-string) |
+| [2022-convert-1d-array-into-2d-array](https://github.com/mihirr-source/Leetcode-Solutions/tree/master/2022-convert-1d-array-into-2d-array) |
 | [2079-watering-plants](https://github.com/mihirr-source/Leetcode-Solutions/tree/master/2079-watering-plants) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/mihirr-source/Leetcode-Solutions/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2185-counting-words-with-a-given-prefix](https://github.com/mihirr-source/Leetcode-Solutions/tree/master/2185-counting-words-with-a-given-prefix) |
@@ -160,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1260-shift-2d-grid](https://github.com/mihirr-source/Leetcode-Solutions/tree/master/1260-shift-2d-grid) |
 | [1688-count-of-matches-in-tournament](https://github.com/mihirr-source/Leetcode-Solutions/tree/master/1688-count-of-matches-in-tournament) |
+| [2022-convert-1d-array-into-2d-array](https://github.com/mihirr-source/Leetcode-Solutions/tree/master/2022-convert-1d-array-into-2d-array) |
 | [2079-watering-plants](https://github.com/mihirr-source/Leetcode-Solutions/tree/master/2079-watering-plants) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/mihirr-source/Leetcode-Solutions/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2507-smallest-value-after-replacing-with-sum-of-prime-factors](https://github.com/mihirr-source/Leetcode-Solutions/tree/master/2507-smallest-value-after-replacing-with-sum-of-prime-factors) |
@@ -325,6 +327,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/mihirr-source/Leetcode-Solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [1260-shift-2d-grid](https://github.com/mihirr-source/Leetcode-Solutions/tree/master/1260-shift-2d-grid) |
 | [1572-matrix-diagonal-sum](https://github.com/mihirr-source/Leetcode-Solutions/tree/master/1572-matrix-diagonal-sum) |
+| [2022-convert-1d-array-into-2d-array](https://github.com/mihirr-source/Leetcode-Solutions/tree/master/2022-convert-1d-array-into-2d-array) |
 | [2965-find-missing-and-repeated-values](https://github.com/mihirr-source/Leetcode-Solutions/tree/master/2965-find-missing-and-repeated-values) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/mihirr-source/Leetcode-Solutions/tree/master/3898-find-the-degree-of-each-vertex) |
 ## Heap (Priority Queue)
