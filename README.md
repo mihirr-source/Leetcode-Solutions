@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/mihirr-source/Leetcode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0008-string-to-integer-atoi](https://github.com/mihirr-source/Leetcode-Solutions/tree/master/0008-string-to-integer-atoi) |
+| [0020-valid-parentheses](https://github.com/mihirr-source/Leetcode-Solutions/tree/master/0020-valid-parentheses) |
 | [0151-reverse-words-in-a-string](https://github.com/mihirr-source/Leetcode-Solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0409-longest-palindrome](https://github.com/mihirr-source/Leetcode-Solutions/tree/master/0409-longest-palindrome) |
 | [0791-custom-sort-string](https://github.com/mihirr-source/Leetcode-Solutions/tree/master/0791-custom-sort-string) |
@@ -201,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/mihirr-source/Leetcode-Solutions/tree/master/0020-valid-parentheses) |
 | [1021-remove-outermost-parentheses](https://github.com/mihirr-source/Leetcode-Solutions/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/mihirr-source/Leetcode-Solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/mihirr-source/Leetcode-Solutions/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
@@ -346,5 +348,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bracket Sequences
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/mihirr-source/Leetcode-Solutions/tree/master/0020-valid-parentheses) |
 | [1021-remove-outermost-parentheses](https://github.com/mihirr-source/Leetcode-Solutions/tree/master/1021-remove-outermost-parentheses) |
 <!---LeetCode Topics End-->
